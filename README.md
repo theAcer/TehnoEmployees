@@ -1,2 +1,0 @@
-# TehnoEmployees
-technobrain assignment

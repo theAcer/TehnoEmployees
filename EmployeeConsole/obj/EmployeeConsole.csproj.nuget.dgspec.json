@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Toshiba_pc\\source\\repos\\Employees\\EmployeeConsole\\EmployeeConsole.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Toshiba_pc\\source\\repos\\Employees\\EmployeeConsole\\EmployeeConsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Toshiba_pc\\source\\repos\\Employees\\EmployeeConsole\\EmployeeConsole.csproj",
+        "projectName": "EmployeeConsole",
+        "projectPath": "C:\\Users\\Toshiba_pc\\source\\repos\\Employees\\EmployeeConsole\\EmployeeConsole.csproj",
+        "packagesPath": "C:\\Users\\Toshiba_pc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Toshiba_pc\\source\\repos\\Employees\\EmployeeConsole\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Toshiba_pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Toshiba_pc\\source\\repos\\Employees\\Employees\\Employees.csproj": {
+                "projectPath": "C:\\Users\\Toshiba_pc\\source\\repos\\Employees\\Employees\\Employees.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Toshiba_pc\\source\\repos\\Employees\\Employees\\Employees.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Toshiba_pc\\source\\repos\\Employees\\Employees\\Employees.csproj",
+        "projectName": "Employees",
+        "projectPath": "C:\\Users\\Toshiba_pc\\source\\repos\\Employees\\Employees\\Employees.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

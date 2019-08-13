@@ -1,0 +1,9 @@
+C:\Users\Toshiba_pc\source\repos\Employees\EmployeeConsole\bin\Debug\netcoreapp2.1\Employees.dll
+C:\Users\Toshiba_pc\source\repos\Employees\EmployeeConsole\bin\Debug\netcoreapp2.1\Employees.pdb
+C:\Users\Toshiba_pc\source\repos\Employees\EmployeeConsole\obj\Debug\netcoreapp2.1\EmployeeConsole.csprojAssemblyReference.cache
+C:\Users\Toshiba_pc\source\repos\Employees\EmployeeConsole\obj\Debug\netcoreapp2.1\EmployeeConsole.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba_pc\source\repos\Employees\EmployeeConsole\obj\Debug\netcoreapp2.1\EmployeeConsole.AssemblyInfoInputs.cache
+C:\Users\Toshiba_pc\source\repos\Employees\EmployeeConsole\obj\Debug\netcoreapp2.1\EmployeeConsole.AssemblyInfo.cs
+C:\Users\Toshiba_pc\source\repos\Employees\EmployeeConsole\obj\Debug\netcoreapp2.1\EmployeeConsole.csproj.CopyComplete
+C:\Users\Toshiba_pc\source\repos\Employees\EmployeeConsole\obj\Debug\netcoreapp2.1\EmployeeConsole.dll
+C:\Users\Toshiba_pc\source\repos\Employees\EmployeeConsole\obj\Debug\netcoreapp2.1\EmployeeConsole.pdb
